@@ -1,0 +1,3 @@
+author = Efromomr, CKnight, Meuran, Hastur, Mr. Pigeon, VFD, Nikithn, Avizavul, Ignus, Dakkharn, Bripe
+version = 0.1
+displayName = Halfborn Mod
